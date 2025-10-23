@@ -1,0 +1,24 @@
+{
+  "name": "gerenciar-usuarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonegabionetta/gerenciar-usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonegabionetta/gerenciar-usuarios/issues"
+  },
+  "homepage": "https://github.com/simonegabionetta/gerenciar-usuarios#readme",
+  "description": "",
+  "dependencies": {
+    "chai": "^6.2.0",
+    "mocha": "^11.7.4"
+  }
+}
